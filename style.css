@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background-color: rgb(17, 121, 79);
+  width: 300px;
+  height: 350px;
+  border-radius: 20px;
+  position: relative;
+
+  margin-top: 20vh;
+  margin-left: 35vw;
+
+  align-items: center;
+
+  text-align: center;
+  padding-top: 30px;
+}
+
+img {
+  background-color: white;
+}
+
+.logosize {
+}
+.companyname {
+  /* background-color: white; */
+
+  position: relative;
+
+  bottom: 10px;
+}
+
+#Display {
+  height: 30px;
+  width: 220px;
+  padding: 2px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+.buttons {
+  margin: 30px;
+}
+
+.btn {
+  background: none;
+  color: white;
+
+  margin: 8px;
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+  border: 2px solid white;
+  font-size: 30px;
+  font-family: "roboto", San serif;
+}
